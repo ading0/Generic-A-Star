@@ -14,7 +14,7 @@ Some features over the basic A* algorithm that might be of interest:
 
 #### Usage
 
-Copy the .cs files in the `source` subdirectory.
+Copy the .cs files in the `Source` subdirectory.
 
 #### Limitations
 
